@@ -3,23 +3,23 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=学生%20%7C%20热爱编程的xxs;Python%20%7C%20Flutter%20开发者;二次元爱好者;欢迎交流!&font=Fira%20Code&width=500&height=40&duration=4000&pause=4000"/>
+  <img src="https://readme-typing-svg.demolab.com?lines=Student;Passionate%20about%20Coding;Python%20%26%20Flutter%20Developer;Anime%20Fan;From%20China&font=Fira%20Code&width=500&height=40&duration=3500&pause=1500" />
 </p>
 
 ---
 
-### 🧑‍💻 关于我
+### 🧑‍💻 About Me
 
-- 🌏 国籍：中国
-- 🎓 学生一枚，热爱编程，喜欢钻研新技术
-- 💻 主要使用 Python、Flutter
-- 🌟 代表项目：[SkyUOI/OurChat](https://github.com/SkyUOI/OurChat)
-- 💌 联系方式：2755221817@qq.com
-- 🐾 二次元 & 技术宅
+- 🌏 Nationality: China
+- 🎓 Student who loves programming and exploring new technologies
+- 💻 Mainly work with Python and Flutter
+- 🌟 Featured project: [SkyUOI/OurChat](https://github.com/SkyUOI/OurChat)
+- 📧 Contact: 2755221817@qq.com
+- 🐾 Anime & technology enthusiast
 
 ---
 
-### 🚀 技能栈
+### 🚀 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -28,7 +28,7 @@
 
 ---
 
-### 📊 GitHub 活跃统计
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=senlinjun&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" height="170"/>
@@ -46,7 +46,7 @@
 
 ---
 
-### 🏆 代表项目
+### 🏆 Featured Projects
 
 - [SkyUOI/OurChat](https://github.com/SkyUOI/OurChat)
 - [Ourchat_website](https://github.com/SkyUOI/Ourchat_website)
@@ -54,14 +54,14 @@
 
 ---
 
-### 🌸 彩蛋
+### 🌸 Fun Facts
 
-- 🎶 喜欢二次元音乐与动漫
-- 🧩 偶尔折腾新技术
-- 欢迎一起交流学习！
+- 🎶 Love anime music and animation
+- 🧩 Enjoy experimenting with new technologies
+- Always open to new ideas and collaborations!
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=senlinjun&color=blueviolet" alt="senlinjun的profile访问量"/>
+  <img src="https://komarev.com/ghpvc/?username=senlinjun&color=blueviolet" alt="senlinjun's profile views"/>
 </div>
