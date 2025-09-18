@@ -50,8 +50,6 @@
 ### 🏆 Featured Projects
 
 - [SkyUOI/OurChat](https://github.com/SkyUOI/OurChat)
-- [Ourchat_website](https://github.com/SkyUOI/Ourchat_website)
-- [action-gitee-release](https://github.com/senlinjun/action-gitee-release)
 
 ---
 
