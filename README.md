@@ -10,7 +10,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🌏 Nationality: 🇨🇳
+- 🌏 Nationality: China
+- 🏫 Grade 1 high school student (2025-2026)
 - 🎓 Student who loves programming and exploring new technologies
 - 💻 Mainly work with Python and Flutter
 - 🌟 Featured project: [SkyUOI/OurChat](https://github.com/SkyUOI/OurChat)
