@@ -42,6 +42,7 @@
 ### 🏆 Featured Projects
 
 - [SkyUOI/OurChat](https://github.com/SkyUOI/OurChat)
+- [Nek0](https://github.com/senlinjun/Nek0)
 
 ---
 
