@@ -11,7 +11,7 @@
 ### 🧑‍💻 About Me
 
 - 🌏 Nationality: China
-- 🏫 Grade 1 high school student (2025-2026)
+- 🏫 high school student (2025~2028)
 - 🎓 Student who loves programming and exploring new technologies
 - 💻 Mainly work with Python and Flutter
 - 🌟 Featured project: [SkyUOI/OurChat](https://github.com/SkyUOI/OurChat)
@@ -31,18 +31,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senlinjun&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senlinjun&layout=compact&theme=tokyonight&hide_title=true" height="170"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=senlinjun&theme=react-dark" alt="senlinjun's Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senlinjun&theme=tokyonight">
-  <img src="https://github-profile-trophy.vercel.app/?username=senlinjun&theme=flat&row=1&column=6" />
 </p>
 
 ---
