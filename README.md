@@ -34,7 +34,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=senlinjun&theme=react-dark" alt="senlinjun's Activity Graph"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=senlinjun&show_icons=true" alt="senlinjun's GitHub Stats" />
 </p>
 
 ---
